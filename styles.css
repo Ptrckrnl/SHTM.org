@@ -119,7 +119,7 @@ body::before {
     left: 0;
     z-index: -1;
     padding: 24px;
-    background: url("images/logo-large.png") center / contain no-repeat;
+    background: url("logo-large.png") center / contain no-repeat;
     background-origin: content-box;
     background-clip: content-box;
     opacity: 0.09;
